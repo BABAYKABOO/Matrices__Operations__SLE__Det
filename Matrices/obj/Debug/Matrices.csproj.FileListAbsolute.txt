@@ -1,0 +1,7 @@
+C:\Users\BABAYKA\Desktop\Matrices\Matrices\Matrices\bin\Debug\Matrices.exe.config
+C:\Users\BABAYKA\Desktop\Matrices\Matrices\Matrices\bin\Debug\Matrices.exe
+C:\Users\BABAYKA\Desktop\Matrices\Matrices\Matrices\bin\Debug\Matrices.pdb
+C:\Users\BABAYKA\Desktop\Matrices\Matrices\Matrices\obj\Debug\Matrices.csprojAssemblyReference.cache
+C:\Users\BABAYKA\Desktop\Matrices\Matrices\Matrices\obj\Debug\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\BABAYKA\Desktop\Matrices\Matrices\Matrices\obj\Debug\Matrices.exe
+C:\Users\BABAYKA\Desktop\Matrices\Matrices\Matrices\obj\Debug\Matrices.pdb
