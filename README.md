@@ -6,7 +6,7 @@ This project can count<br/></span>
   <li>multiply matrices</li>
   <li>multiply matrix by number</li>
   <li>sum of matrices</li>
-  <li>operations</li>
+  <li>addition operations</li>
   <li>reverse matrix</li>
   <li>systems of line equaintance by Gausse's method</li>
 </ul><br/>
