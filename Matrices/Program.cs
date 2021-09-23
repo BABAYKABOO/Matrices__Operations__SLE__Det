@@ -139,7 +139,7 @@ namespace Matrices
             while (true)
             {
                 Console.WriteLine("\ndet - determinate\nA*B - matrix multiplication\n3A - matrix multiplication by number\nA+B - Sum of matrices\n" +
-                                  "multi - matrix multiplication by number+ sum of matrices (-4A + B/A - B)\nA^T - Reverse matrix\n" +
+                                  "multi - addition operations (-4A + B / A - B)\nA^T - Reverse matrix\n" +
                                   "SLE - Systems of line equaintance by Gausse's method\nclear - clear console");
                 switch (Console.ReadLine().ToLower())
                 {
