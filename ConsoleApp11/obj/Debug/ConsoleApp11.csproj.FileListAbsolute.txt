@@ -1,0 +1,14 @@
+C:\Users\BABAYKA\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\BABAYKA\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\BABAYKA\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\BABAYKA\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\BABAYKA\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\BABAYKA\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\BABAYKA\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+D:\Save USB\CONSOLE\Determinate\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+D:\Save USB\CONSOLE\Determinate\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+D:\Save USB\CONSOLE\Determinate\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+D:\Save USB\CONSOLE\Determinate\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+D:\Save USB\CONSOLE\Determinate\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\Save USB\CONSOLE\Determinate\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+D:\Save USB\CONSOLE\Determinate\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
